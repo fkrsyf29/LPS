@@ -9,7 +9,7 @@
 
 ### Suggestion Code
 
-1. Early return: You could use early returns to reduce nesting and improve readability further.
+1. Early return: We could use early returns to reduce nesting and improve readability further.
 2. Guard Clauses: Using guard clauses can make the code clearer by checking for invalid conditions at the beginning of the method.
 \
 My Suggestion Code :
